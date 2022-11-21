@@ -5,7 +5,7 @@
 
 You have finally discovered our Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/pxledit/pxledit/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/Pxledit/Pxledit/issues/new"><b>here</b></a><br>
 or <a href="mailto:shousuke@naver.com"><b>email</b></a> me
 
 <div align="center">
